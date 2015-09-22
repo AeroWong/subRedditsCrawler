@@ -15,7 +15,7 @@ function RedditCrawler() {
     var Promise = require('bluebird');
     var request = Promise.promisify(require('request'));
     var mongoose = require('mongoose');
-    var Subreddit = require('./model/subreddit');
+    var Subreddit = require('./models/Subreddit');
     mongoose.Promise = Promise;
     mongoose.connect('mongodb://localhost/reddit');
     return {
