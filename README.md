@@ -11,4 +11,4 @@ This crawler can help you to get a list of subreddits
 - run `npm install`
 - run the script `node redditListCrawler.js`
 
-![Screen Shot](/subreddits_data_sample?raw=true "Optional Title")
+![Screen Shot](/subreddits_data_sample.png?raw=true "Optional Title")
