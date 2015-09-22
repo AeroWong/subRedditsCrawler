@@ -10,3 +10,5 @@ This crawler can help you to get a list of subreddits
 - command `mongod`
 - run `npm install`
 - run the script `node redditListCrawler.js`
+
+![Screen Shot](/subreddits_data_sample?raw=true "Optional Title")
