@@ -1,0 +1,23 @@
+{
+  "name": "reddit-crawer",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Get reddit data",
+  "main": "./index",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.27",
+    "cheerio": "latest",
+    "mocha": "latest",
+    "moment": "^2.10.6",
+    "mongoose": "latest",
+    "mongoose-times": "^0.1.0",
+    "request": "latest",
+    "underscore": "latest",
+    "winston": "^0.9.0"
+  },
+  "author": "Hello Kit",
+  "license": "MIT"
+}
